@@ -1,0 +1,6 @@
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Models\bin\Debug\Models.dll
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Models\bin\Debug\Models.pdb
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Models\obj\Debug\Models.dll
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Models\obj\Debug\Models.pdb

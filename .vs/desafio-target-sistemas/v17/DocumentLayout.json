@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|solutionrelative:desafio-target-sistemas\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\controllers\\estoquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|solutionrelative:desafio-target-sistemas\\controllers\\estoquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\controllers\\juroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|solutionrelative:desafio-target-sistemas\\controllers\\juroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE0661E-ABE7-4B24-A983-F0291923A660}|Repositories\\Repositories.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\repositories\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE0661E-ABE7-4B24-A983-F0291923A660}|Repositories\\Repositories.csproj|solutionrelative:repositories\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15DC66-EFC8-4031-A577-BFDA614D73D0}|Utils\\Utils.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC15DC66-EFC8-4031-A577-BFDA614D73D0}|Utils\\Utils.csproj|solutionrelative:utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE0661E-ABE7-4B24-A983-F0291923A660}|Repositories\\Repositories.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\repositories\\juros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE0661E-ABE7-4B24-A983-F0291923A660}|Repositories\\Repositories.csproj|solutionrelative:repositories\\juros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE0661E-ABE7-4B24-A983-F0291923A660}|Repositories\\Repositories.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\repositories\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE0661E-ABE7-4B24-A983-F0291923A660}|Repositories\\Repositories.csproj|solutionrelative:repositories\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|solutionrelative:desafio-target-sistemas\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\comissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\comissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\vendarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\vendarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\juroscalculado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\juroscalculado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\juros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\juros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\models\\estoquerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8027574-A4E6-4928-9FC9-92B2260B122E}|Models\\Models.csproj|solutionrelative:models\\estoquerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|solutionrelative:desafio-target-sistemas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|c:\\github\\desafio-target-sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DB08DAC-3C17-49A6-8166-B1BB6BC76B28}|desafio-target-sistemas\\desafio-target-sistemas.csproj|solutionrelative:desafio-target-sistemas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comissao.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Comissao.cs",
+              "RelativeDocumentMoniker": "Models\\Comissao.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Comissao.cs",
+              "RelativeToolTip": "Models\\Comissao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:37:32.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "desafio-target-sistemas\\Controllers\\VendasController.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "desafio-target-sistemas\\Controllers\\VendasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:17:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "Models\\Movimentacao.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:40:51.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Models\\Venda.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Venda.cs",
+              "RelativeToolTip": "Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:44:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Estoque.cs",
+              "RelativeDocumentMoniker": "Models\\Estoque.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Estoque.cs",
+              "RelativeToolTip": "Models\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:44:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JurosController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Controllers\\JurosController.cs",
+              "RelativeDocumentMoniker": "desafio-target-sistemas\\Controllers\\JurosController.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Controllers\\JurosController.cs",
+              "RelativeToolTip": "desafio-target-sistemas\\Controllers\\JurosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:29:47.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Configurations\\Config.cs",
+              "RelativeDocumentMoniker": "desafio-target-sistemas\\Configurations\\Config.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Configurations\\Config.cs",
+              "RelativeToolTip": "desafio-target-sistemas\\Configurations\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:58:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Repositories\\Estoque.cs",
+              "RelativeDocumentMoniker": "Repositories\\Estoque.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Repositories\\Estoque.cs",
+              "RelativeToolTip": "Repositories\\Estoque.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:27:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juros.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Repositories\\Juros.cs",
+              "RelativeDocumentMoniker": "Repositories\\Juros.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Repositories\\Juros.cs",
+              "RelativeToolTip": "Repositories\\Juros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:04:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Repositories\\Venda.cs",
+              "RelativeDocumentMoniker": "Repositories\\Venda.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Repositories\\Venda.cs",
+              "RelativeToolTip": "Repositories\\Venda.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:53:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Utils\\Logger.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Utils\\Logger.cs",
+              "RelativeToolTip": "Utils\\Logger.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:49:57.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstoquesController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Controllers\\EstoquesController.cs",
+              "RelativeDocumentMoniker": "desafio-target-sistemas\\Controllers\\EstoquesController.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Controllers\\EstoquesController.cs",
+              "RelativeToolTip": "desafio-target-sistemas\\Controllers\\EstoquesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:38:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VendaRequest.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\VendaRequest.cs",
+              "RelativeDocumentMoniker": "Models\\VendaRequest.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\VendaRequest.cs",
+              "RelativeToolTip": "Models\\VendaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:20:39.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JurosCalculado.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\JurosCalculado.cs",
+              "RelativeDocumentMoniker": "Models\\JurosCalculado.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\JurosCalculado.cs",
+              "RelativeToolTip": "Models\\JurosCalculado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:03:51.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Juros.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Juros.cs",
+              "RelativeDocumentMoniker": "Models\\Juros.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\Juros.cs",
+              "RelativeToolTip": "Models\\Juros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:03:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Global.asax.cs",
+              "RelativeDocumentMoniker": "desafio-target-sistemas\\Global.asax.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Global.asax.cs",
+              "RelativeToolTip": "desafio-target-sistemas\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:14:10.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstoqueRequest.cs",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\EstoqueRequest.cs",
+              "RelativeDocumentMoniker": "Models\\EstoqueRequest.cs",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\Models\\EstoqueRequest.cs",
+              "RelativeToolTip": "Models\\EstoqueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:22:13.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Web.config",
+              "RelativeDocumentMoniker": "desafio-target-sistemas\\Web.config",
+              "ToolTip": "C:\\GitHub\\Desafio-Target-Sistemas\\desafio-target-sistemas\\desafio-target-sistemas\\Web.config",
+              "RelativeToolTip": "desafio-target-sistemas\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-04T16:59:21.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

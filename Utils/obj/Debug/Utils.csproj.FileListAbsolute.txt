@@ -1,0 +1,6 @@
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Utils\bin\Debug\Utils.dll
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Utils\bin\Debug\Utils.pdb
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Utils\obj\Debug\Utils.dll
+C:\GitHub\Desafio-Target-Sistemas\desafio-target-sistemas\Utils\obj\Debug\Utils.pdb
